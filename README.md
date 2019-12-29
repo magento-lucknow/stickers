@@ -1,0 +1,2 @@
+# stickers
+Magento Meetup Stickers
